@@ -1,0 +1,7 @@
+name = input('What is your name:? ' )
+age = input('How old are? ')
+location = input('Where are you located? ')
+print(f'\nHello {name}! Nice to meet you.')
+print(f'You are {age} years old.')
+print(f'You are located in {location}')
+print('Have a lovely day!')
